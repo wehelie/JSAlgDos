@@ -1,4 +1,4 @@
-# Algorithm and Data Structure in JavaScript Practise 
+# Algorithms and Data Structures in JavaScript --practice
 
 
 ### Binary Search
