@@ -1,2 +1,1 @@
-# JSAlgDos
-Algorithm and Data Structure in JavaScript Practise 
+# sAlgorithm and Data Structure in JavaScript Practise 
