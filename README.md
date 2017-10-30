@@ -1,8 +1,8 @@
 # Algorithms and Data Structures in JavaScript &mdash;practice
-- - -
+
 
 ### Binary Search
-===
+- - -
 
 
 
