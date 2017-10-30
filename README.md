@@ -1,1 +1,1 @@
-# sAlgorithm and Data Structure in JavaScript Practise 
+## Algorithm and Data Structure in JavaScript Practise 
