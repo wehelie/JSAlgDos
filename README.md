@@ -13,7 +13,4 @@ Nice article on [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_s
 
 [Here is my code](https://github.com/wehelie/JSAlgDos/blob/master/binarysearch/binarysearch.js)
 
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-```
+
