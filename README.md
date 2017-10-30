@@ -7,6 +7,8 @@ Nice article on [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_s
 
 #### My implementation in JavaScript
 
-1. [x] Binary Search
-2. [x] Recursive
+- [x] Binary Search
 
+- [x] Recursive
+
+[Here is my code](https://github.com/wehelie/JSAlgDos/blob/master/binarysearch/binarysearch.js)
