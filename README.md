@@ -53,11 +53,11 @@ fact(n) = n * fact(n - 1);
            // recursive case
            return n * fact(n - 1);
        }
-       
-       
-       
    }
   ```
+
+- - -
+
 
 [Here is my code](https://github.com/wehelie/JSAlgDos/blob/master/binarysearch/binarysearch.js)
 
