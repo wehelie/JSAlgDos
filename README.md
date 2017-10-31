@@ -41,7 +41,23 @@ fact(n) = n * fact(n - 1);
 ### Parts of a recursive function
 - Every recursive function has two cases that could apply, given any input.
   1. The _base case_, which when triggered will terminate the recursive process
+  
   2. The _recursive case_, which is where the recursion will actually occur
+  
+  ```c
+   int fact(int n) {
+       // base case
+       if (n == 1) {
+           return 1;
+       } else { 
+           // recursive case
+           return n * fact(n - 1);
+       }
+       
+       
+       
+   }
+  ```
 
 [Here is my code](https://github.com/wehelie/JSAlgDos/blob/master/binarysearch/binarysearch.js)
 
