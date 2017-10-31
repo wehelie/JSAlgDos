@@ -33,14 +33,15 @@ fact(3) = 3 * 2 * 1
 fact(4) = 4 * 3 * 2 * 1
 fact(5) = 5 * 4 * 3 * 2 * 1
 
+// more elegant solution
 fact(n) = n * fact(n - 1);
 
 ```
 
 ### Parts of a recursive function
 - Every recursive function has two cases that could apply, given any input.
-  1. The ~base case~, which when triggered will terminate the recursive process
-  2. The ~recursive case~, which is where the recursion will actually occur
+  1. The _base case_, which when triggered will terminate the recursive process
+  2. The _recursive case_, which is where the recursion will actually occur
 
 [Here is my code](https://github.com/wehelie/JSAlgDos/blob/master/binarysearch/binarysearch.js)
 
